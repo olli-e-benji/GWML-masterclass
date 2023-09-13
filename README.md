@@ -10,8 +10,11 @@ We will implement a test case to classify transient signals versus noise signals
     - Install python environment on your notebook. Connect to https://docs.anaconda.com/free/anaconda/install/windows/ and download  the installer https://repo.anaconda.com/archive/Anaconda3-2023.07-2-Windows-x86_64.exe
     - Once installed you can launch jupyter notebook
 
-    - Install specific packages need for the tasks to be solved
-    * gwpy ( You can install the package gwpy, by writing in a notebook cell: !pip install gwpy)
-- Download the data sets we prepared.
+    - Install specific packages need for the tasks to be solved (( You can install the package gwpy, by writing in a notebook cell: !pip install name-package))
+    * gwpy 
+    * statsmodels
+    * tensorflow
+    * scikit-learn
+- The data sets we prepared will be download in the notebook
 
 
