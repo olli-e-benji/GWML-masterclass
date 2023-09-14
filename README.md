@@ -1,20 +1,41 @@
 # GWML-masterclass
-In this repo you can find the  materials for advanced class "Big Data within Science and Industry" will take place on September 22, 2023 at the University of Milano-Bicocca (Milan, Italy).
-https://sites.google.com/unimib.it/bigdatamasterclassTutorials 
 
-There are notebooks for Gravitational Wave data prepropcessing and  and Machine Learning applicaton.
-We will implement a test case to classify transient signals versus noise signals, usign Convolutional Neural Network (CNN)
+This repository contains materials for the advanced class "Big Data within Science and Industry," which will take place on September 22, 2023, at the University of Milano-Bicocca in Milan, Italy.
 
-## Requirement
-- You need to have a python environment with the needed packages installed. If you do not have the environment on your pc, you can install it by following these instructions: 
-    - Install python environment on your notebook. Connect to https://docs.anaconda.com/free/anaconda/install/windows/ and download  the installer https://repo.anaconda.com/archive/Anaconda3-2023.07-2-Windows-x86_64.exe
-    - Once installed you can launch jupyter notebook
+**Class Information:** [Big Data within Science and Industry](https://sites.google.com/unimib.it/bigdatamasterclassTutorials)
 
-    - Install specific packages need for the tasks to be solved (( You can install the package gwpy, by writing in a notebook cell: !pip install name-package))
-    * gwpy 
-    * statsmodels
-    * tensorflow
-    * scikit-learn
-- The data sets we prepared will be download in the notebook
+## Overview
+
+In this class, you will find notebooks and resources for:
+
+- Gravitational Wave (GW) data preprocessing.
+- Machine Learning applications.
+
+We will be implementing a test case to classify transient signals for different mechanisms of GW emission by Core Collapse Supernovae (CCSN) using a Convolutional Neural Network (CNN).
+
+## Requirements
+
+Before you start, make sure you have the following prerequisites:
+
+### Python Environment
+
+You need to have a Python environment with the necessary packages installed. If you do not have the environment on your PC, you can set it up by following these instructions:
+
+1. Install a Python environment on your notebook. For Windows:
+   - Connect to [Anaconda Installation Guide](https://docs.anaconda.com/free/anaconda/install/windows/).
+   - Download the installer from [Anaconda Downloads](https://repo.anaconda.com/archive/Anaconda3-2023.07-2-Windows-x86_64.exe).
+
+3. Once installed, you can launch a Jupyter Notebook.
+
+### Required Packages
+
+You will need to install specific packages required for the tasks to be solved. You can do this by running the following commands in a Jupyter Notebook cell:
+
+```python
+!pip install gwpy
+!pip install statsmodels
+!pip install tensorflow
+!pip install scikit-learn
+
 
 
