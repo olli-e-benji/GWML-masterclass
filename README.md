@@ -76,5 +76,13 @@ You will need to install specific packages required for the tasks to be solved. 
 !pip install tensorflow
 !pip install scikit-learn
 
+# Acknowledgments
+
+Thanks to **Alberto Iess** for providing the time series dataset for this project.
+
+**Contact:** Alberto Iess, alberto.iess@sns.it
+
+
+
 
 
