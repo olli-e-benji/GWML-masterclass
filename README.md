@@ -12,17 +12,17 @@ In this class, you will have access to notebooks and  resources designed to guid
 
 Before diving into the intricate world of GW data analysis, we'll start by understanding the importance of data preprocessing. This fundamental step involves cleaning, formatting, and organizing the raw GW data to make it suitable for further analysis. You will learn how to:
 
-- Cleanse noisy data.
+- Clean noisy data.
 - Correct for instrumental artifacts.
 - Prepare data for feature extraction and model training.
 
 ## 2. Machine Learning Applications in GW Analysis
 
-The second part of our tutorial delves into the exciting realm of machine learning applied to GW data.  Throughout this class, you'll explore:
+The second part of our tutorial delves into the realm of machine learning applied to GW data.  Throughout this class, you'll explore:
 
-- Supervised a machine learning algorithms.
+- Supervised machine learning algorithms.
 - Feature engineering for GW signal detection.
-- Implementing machine learning models for classification and regression tasks.
+- Implementing machine learning models for classification tasks.
 
 ## The Challenge: Classifying Transient Signals from Core Collapse Supernovae (CCSN)
 
